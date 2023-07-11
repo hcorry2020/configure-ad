@@ -66,5 +66,11 @@ Here i executed a ping command from the client computer to the server to ensure 
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/KVGdRrP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Active Directory has been installed and the server was promoted to domain status. Next, i will create an admin account & a user account.
+</p>
+<br />
 
