@@ -88,5 +88,10 @@ Created an employee called jane admin & added her to the Domains Admin group. Ne
 Changed client DNS to server private ip address so to allow it to connect to the server.
 </p>
 <br />
-</p>
 
+<p>
+<img src="https://i.imgur.com/Cdj3FYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Used ipconfig /all to verify client computer connection to the server. Client DNS is 10.0.0.4 which is the same as the server private ip address.
+</p>
+<br />
