@@ -50,3 +50,13 @@ Successful deployment of client computer.
 </p>
 <br />
 
+<p>
+  <img src="https://i.imgur.com/G4BgNkB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i am going into the server firewall settings to allow ICMP traffic inbound so client computer can communicate with server.
+</p>
+<br />
+
+</p>
+
