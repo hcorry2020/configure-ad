@@ -103,4 +103,11 @@ Allowing all domain users remote desktop access to server via client computer.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/yxEBpGc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Using Powershell ISE to generate random users to domain users in server.
+</p>
+<br />
+
 
