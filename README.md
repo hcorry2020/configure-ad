@@ -38,7 +38,7 @@ Successful deployment of Windows Server in Azure environment.
 <img src="https://i.imgur.com/hVqzbB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is where i change my settings for the private ip address on the server from dynamic to static. I want the ip address to stay the same so the server can play host tol the client computer.
+Here is where i change my settings for the private ip address on the server from dynamic to static. I want the ip address to stay the same so the server can play host to the client computer.
 </p>
 <br />
 
