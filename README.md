@@ -85,7 +85,7 @@ Created an employee called jane admin & added her to the Domains Admin group. Ne
 <p>
 <img src="https://i.imgur.com/jVQzEdu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Changed client DNS to server's private ip address so to allow it to connect to the server.
+Changed client DNS to server private ip address so to allow it to connect to the server.
 </p>
 <br />
 </p>
