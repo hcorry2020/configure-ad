@@ -74,3 +74,12 @@ Active Directory has been installed and the server was promoted to domain status
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/WFtcVkQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created an employee called jane admin & added her to the Domains Admin group.
+</p>
+<br />
+</p>
+
