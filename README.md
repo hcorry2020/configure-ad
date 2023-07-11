@@ -81,5 +81,12 @@ Active Directory has been installed and the server was promoted to domain status
 Created an employee called jane admin & added her to the Domains Admin group. Next, i will connect client computer to the server.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/jVQzEdu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Changed client DNS to server's private ip address so to allow it to connect to the server.
+</p>
+<br />
 </p>
 
