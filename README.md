@@ -95,3 +95,12 @@ Changed client DNS to server private ip address so to allow it to connect to the
 Used ipconfig /all to verify client computer connection to the server. Client DNS is 10.0.0.4 which is the same as the server private ip address.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ve164yk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Allowing all domain users remote desktop access to server via client computer.
+</p>
+<br />
+
+
