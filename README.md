@@ -51,10 +51,18 @@ Successful deployment of client computer.
 <br />
 
 <p>
-  <img src="https://i.imgur.com/G4BgNkB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G4BgNkB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here i am going into the server firewall settings to allow ICMP traffic inbound so client computer can communicate with server.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UgCQRGg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i executed a ping command from the client computer to the server to ensure connectivity. As you can see, the connection was successful.
 </p>
 <br />
 
