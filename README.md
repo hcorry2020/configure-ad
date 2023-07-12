@@ -20,9 +20,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Deployment Of Windows Server 2022
-- Step 2
-- Step 3
-- Step 4
+- Prepping server for domain status
+- Connect User computer to server
+- Ensure logins work for admins & non-adnin users
 
 <h2>Deployment and Configuration Steps</h2>
 
